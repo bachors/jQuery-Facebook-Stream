@@ -1,7 +1,7 @@
 jQuery-iBacor-Facebook-Streaming
 ================================
 
-Display all your wall post, comments &amp; likes in groups or fans page.
+Display all your wall post, comments &amp; likes in groups(PUBLIC) or fans page.
 
 <h1>Simple configuration</h1>
 <pre>
