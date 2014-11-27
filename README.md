@@ -13,20 +13,20 @@ ibacor_fb_streaming(
 
 <a href="http://ibacor.com/media/sosmed-user-id-finder/" target="_BLANK">Find your facebook id ?</a>
 <h1>Screenshot</h1>
-<p>Display all activity groups or page wall
-<img src="http://i.imgur.com/km2Rwsw.jpg" style="width:100%"></p><br>
-<p>Find multyple url,hashtag & email
-<img src="http://i.imgur.com/6ufRcs8.jpg" style="width:100%"></p><br>
-<p>Display link,thumb in post
-<img src="http://i.imgur.com/8hPoU1X.jpg" style="width:100%"></p><br>
-<p>Popup image post & comment
-<img src="http://i.imgur.com/w8ZqUoB.jpg" style="width:100%"></p><br>
-<p>View all user likes
-<img src="http://i.imgur.com/hNOWtMZ.jpg" style="width:100%"></p><br>
-<p>Display count shares & shrae button
-<img src="http://i.imgur.com/WbUq8LR.jpg" style="width:100%"></p><br>
-<p>Display all comment, comment picture, comment url hash email & comment likes count
-<img src="http://i.imgur.com/E2a0Rkx.jpg" style="width:100%"></p><br>
+<p>Display all activity groups or page wall<br>
+<img src="http://i.imgur.com/km2Rwsw.jpg" ></p><br>
+<p>Find multyple url,hashtag & email<br>
+<img src="http://i.imgur.com/6ufRcs8.jpg"></p><br>
+<p>Display link,thumb in post<br>
+<img src="http://i.imgur.com/8hPoU1X.jpg"></p><br>
+<p>Popup image post & comment<br>
+<img src="http://i.imgur.com/w8ZqUoB.jpg"></p><br>
+<p>View all user likes<br>
+<img src="http://i.imgur.com/hNOWtMZ.jpg" ></p><br>
+<p>Display count shares & shrae button<br>
+<img src="http://i.imgur.com/WbUq8LR.jpg"></p><br>
+<p>Display all comment, comment picture, comment url hash email & comment likes count<br>
+<img src="http://i.imgur.com/E2a0Rkx.jpg"></p><br>
 
 <h1><a href="http://ibacor.com/demo/jquery-ibacor-facebook-streaming/" target="_BLANK">DEMO</a></h1>
 
