@@ -209,35 +209,6 @@ div#ibacor_fb_content p.ibacor_btn_load_more a:hover{
 	text-decoration: none;
 }
 
-div#ibacor_fb_content div.ibacor_fb_profile{
-	background:url(http://i.imgur.com/LbpKGpZ.jpg) no-repeat center center fixed;
-	height:auto;
-	margin-bottom:20px;
-	text-align:center;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	background-size:cover;
-}
-
-div#ibacor_fb_content div.ibacor_fb_profile p{
-	margin-top:0px
-}
-
-div#ibacor_fb_content div.profile_nm{
-	background:rgba(0, 0, 0, 0.7);
-	color:#cbcbcb;
-	height:100%;
-	padding:15px;
-	display: block;
-	overflow: hidden;
-	*overflow: visible;
-}
-
-div#ibacor_fb_content div.profile_nm a{
-	color:#fff;
-}
-
 @media only screen and (min-width: 960px) and (max-width: 1045px) {
 
 	#ibacor_fb_content{
