@@ -26,7 +26,7 @@ ibacor_fb_streaming(
 <img src="http://i.imgur.com/hNOWtMZ.jpg" ></p><br>
 <p>Display count shares & shrae button<br>
 <img src="http://i.imgur.com/WbUq8LR.jpg"></p><br>
-<p>Display all comment, comment picture, comment url hash email & comment likes count<br>
+<p>Display all comment, sub comment, comment picture, comment url hash email & comment likes count<br>
 <img src="http://i.imgur.com/E2a0Rkx.jpg"></p><br>
 
 <h1><a href="http://ibacor.com/demo/jquery-ibacor-facebook-streaming/" target="_BLANK">DEMO</a></h1>
