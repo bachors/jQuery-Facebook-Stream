@@ -1,0 +1,17 @@
+{
+  "name": "jQuery-iBacor-Facebook-Streaming",
+  "main": "src/js/jquery.ibacor-fb-streaming.js",
+  "homepage": "https://github.com/bachors/jQuery-iBacor-Facebook-Streaming",
+  "description": "Display all your wall post, comments & likes in groups(PUBLIC) or fans page.",
+  "keywords": [
+    "facebook",
+    "social",
+    "media",
+    "forum",
+    "page"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
