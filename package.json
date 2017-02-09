@@ -1,0 +1,23 @@
+{
+  "name": "jQuery-iBacor-Facebook-Streaming",
+  "version": "1.0.0",
+  "description": "Display all your wall post, comments & likes in groups(PUBLIC) or fans page.",
+  "repository": "bachors/jQuery-iBacor-Facebook-Streaming",
+  "author": "Ican Bachors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bachors/jQuery-iBacor-Facebook-Streaming/issues"
+  },
+  "homepage": "https://github.com/bachors/jQuery-iBacor-Facebook-Streaming",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "fontawesome": "^4.7.0"
+  },
+  "keywords": [
+    "facebook",
+    "social",
+    "media",
+    "forum",
+    "page"
+  ]
+}
