@@ -23,8 +23,6 @@ Display all your wall post, comments &amp; likes in groups(PUBLIC) or fans page.
     );
 });</pre><br>
 
-<a href="http://ibacor.com/tools/social-media-user-id-finder" target="_BLANK">Find your facebook id ?</a>
-
-<h1><a href="http://ibacor.com/demo/jquery-ibacor-facebook-streaming/" target="_BLANK">DEMO</a></h1>
+<a href="http://bachors.com/tools/social-media-user-id-finder" target="_BLANK">Find your facebook id ?</a>
 
 
