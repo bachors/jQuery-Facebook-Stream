@@ -9,9 +9,10 @@
 @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700);
 
 .facebook-stream {
-	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
 	font-size: 1em;
 	line-height: 24px;
+	color: #000 !important
 }
 
 .facebook-stream .fb_box {
@@ -79,13 +80,20 @@
 }
 
 .facebook-stream pre {
-	font-family: Arial, Helvetica, sans-serif;
-	padding-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 10px;
-	white-space: pre;
-	white-space: pre-wrap;
-	word-wrap: break-word;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+	font-size: 1em !important;
+	line-height: 24px !important;
+	background: transparent !important;
+	color: inherit !important;
+	padding: 0px !important;
+	margin-top: 0px !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-bottom: 10px !important;
+	white-space: pre !important;
+	white-space: pre-wrap !important;
+	word-wrap: break-word !important;
+	border: none !important
 }
 
 .facebook-stream .fb_komen .box_komen {
@@ -111,14 +119,15 @@
 .facebook-stream .fb_url_share img {
 	float: left;
 	width: 20%;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 	padding-right: 20px;
 	height: auto;
 }
 
 .facebook-stream .fb_url_share h3 {
-	margin-top: 0px;
-	margin-bottom: 10px
+	margin-top: 0px !important;
+	margin-bottom: 10px !important;
+	color: inherit !important
 }
 
 .facebook-stream a .fb_url_share {
@@ -229,7 +238,6 @@
 
 .facebook-stream .modalDialog {
 	position: absolute;
-	font-family: Arial, Helvetica, sans-serif;
 	top: 0;
 	right: 0;
 	bottom: 0;
