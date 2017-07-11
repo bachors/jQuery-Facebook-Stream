@@ -13,13 +13,13 @@ Display all your wall post, comments &amp; likes in groups(PUBLIC) or fans page.
     $(".fanspage").ifbs(
         fb_id = 150096141782295, // example your Groups_id or FansPage_id. Find your facebook_id in http://ibacor.com/tools/social-media-user-id-finder
         fb_limit = 5, // max 25
-        fb_token = '45534553|644Et1tuyYta_25j6j4jkkAg8V1jI' // Your facebook access_token. you can get it in https://developers.facebook.com/docs/apps
+        fb_token = 'API KEY' // Your facebook access_token. you can get it in https://developers.facebook.com/docs/apps
     );
     // Example by id
     $("#groups").ifbs(
         fb_id = 35688476100, // example your Groups_id or FansPage_id. Find your facebook_id in http://ibacor.com/tools/social-media-user-id-finder
         fb_limit = 5, // max 25
-        fb_token = '45534553|644Et1tuyYta_25j6j4jkkAg8V1jI' // Your facebook access_token. you can get it in https://developers.facebook.com/docs/apps
+        fb_token = 'API KEY' // Your facebook access_token. you can get it in https://developers.facebook.com/docs/apps
     );
 });</pre><br>
 
