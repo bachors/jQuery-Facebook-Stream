@@ -125,8 +125,9 @@
 }
 
 .facebook-stream .fb_url_share h3 {
-	margin-top: 0px;
-	margin-bottom: 10px
+	margin-top: 0px !important;
+	margin-bottom: 10px !important;
+	color: inherit !important
 }
 
 .facebook-stream a .fb_url_share {
