@@ -81,14 +81,18 @@
 
 .facebook-stream pre {
 	font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+	font-size: 1em !important;
+	line-height: 24px !important;
 	background: transparent !important;
 	color: inherit !important;
-	padding-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 10px;
-	white-space: pre;
-	white-space: pre-wrap;
-	word-wrap: break-word;
+	padding: 0px !important;
+	margin-top: 0px !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-bottom: 10px !important;
+	white-space: pre !important;
+	white-space: pre-wrap !important;
+	word-wrap: break-word !important;
 	border: none !important
 }
 
