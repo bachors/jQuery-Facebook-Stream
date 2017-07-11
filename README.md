@@ -10,13 +10,13 @@ Display all your wall post, comments &amp; likes in groups(PUBLIC) or fans page.
 <h2>jQuery</h2>
 <pre>$(document).ready(function(){
     // Example by className
-    $(".fanspage").ifbs(
+    $(".fanspage").facebook_stream(
         fb_id = 150096141782295, // example your Groups_id or FansPage_id. Find your facebook_id in http://ibacor.com/tools/social-media-user-id-finder
         fb_limit = 5, // max 25
         fb_token = 'API KEY' // Your facebook access_token. you can get it in https://developers.facebook.com/docs/apps
     );
     // Example by id
-    $("#groups").ifbs(
+    $("#groups").facebook_stream(
         fb_id = 35688476100, // example your Groups_id or FansPage_id. Find your facebook_id in http://ibacor.com/tools/social-media-user-id-finder
         fb_limit = 5, // max 25
         fb_token = 'API KEY' // Your facebook access_token. you can get it in https://developers.facebook.com/docs/apps
