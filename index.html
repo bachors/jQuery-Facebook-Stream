@@ -4,20 +4,18 @@
 		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 		<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />
 	
-		<title>jQuery Facebook Streaming - iBacor.com</title>
+		<title>jQuery Facebook Streaming - bachors.com</title>
 		
 		<!-- Custom your style -->
-		<link type="text/css" rel="stylesheet" href="src/css/jquery.ibacor-fb-streaming.css" />
+		<link type="text/css" rel="stylesheet" href="src/css/facebook-stream.css" />
 		<!-- Demo -->
 		<style>
 		body {
-			background: #222;
-			font-family: Arial, Helvetica, sans-serif;
-			font-size:	14px;
+			background: #f5f5f5;
+			font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 		}
 
 		.demo{
-			color: #fff;
 			display: inline-table;
 			width: calc(50% - 200px);
 			padding: 100px;
@@ -28,7 +26,6 @@
 		#groups, .fanspage{
 			padding: 0px;
 			margin: 0px;
-			color: #333;
 			width: 100%;
 		}
 
@@ -86,29 +83,29 @@
 			
 		</div>
 		
-		<a href="https://github.com/bachors/jQuery-iBacor-Facebook-Streaming" target="_BLANK"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
+		<a href="https://github.com/bachors/jQuery-Facebook-Stream" target="_BLANK"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
 	
 		
 		<!-- Include jQuery -->
 		<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
 		<!-- Include jquery.ibacor-fb-streaming -->
-		<script src="src/js/jquery.ibacor-fb-streaming.js"></script>
+		<script src="src/js/facebook-stream.js"></script>
 		<!-- Configuration your facebook_id & facebook_access_token -->
 		<script>
 		$(document).ready(function(){
 			
 			// Example by className
-			$(".fanspage").ifbs(
+			$(".fanspage").facebook_stream(
 				fb_id = 150096141782295, // example your Groups_id or FansPage_id. Find your facebook_id in http://ibacor.com/tools/social-media-user-id-finder
-				fb_limit = 5, // max 25
-				fb_token = 'Your access_token' // you can get it in https://developers.facebook.com/docs/apps
+				fb_limit = 3, // max 25
+				fb_token = 'API KEY' // you can get it in https://developers.facebook.com/docs/apps
 			);
 			
 			// Example by id
-			$("#groups").ifbs(
+			$("#groups").facebook_stream(
 				fb_id = 35688476100, // example your Groups_id or FansPage_id. Find your facebook_id in http://ibacor.com/tools/social-media-user-id-finder
-				fb_limit = 10, // max 25
-				fb_token = 'Your access_token' // you can get it in https://developers.facebook.com/docs/apps
+				fb_limit = 3, // max 25
+				fb_token = 'API KEY' // you can get it in https://developers.facebook.com/docs/apps
 			);
 
 		});
